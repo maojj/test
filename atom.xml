@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My First Octopress Blog]]></title>
+  <link href="http://maojj.gihub.com/atom.xml" rel="self"/>
+  <link href="http://maojj.gihub.com/"/>
+  <updated>2012-03-05T14:28:06+08:00</updated>
+  <id>http://maojj.gihub.com/</id>
+  <author>
+    <name><![CDATA[maojj]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[first page]]></title>
+    <link href="http://maojj.gihub.com/blog/2012/03/05/first-page/"/>
+    <updated>2012-03-05T12:05:00+08:00</updated>
+    <id>http://maojj.gihub.com/blog/2012/03/05/first-page</id>
+    <content type="html"><![CDATA[<h1>h1</h1>
+
+<h1>h2</h1>
+
+<ul>
+<li>1</li>
+<li>2</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
